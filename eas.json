@@ -1,11 +1,9 @@
 {
     "build": {
       "development": {
-        "workflow": "managed",
         "distribution": "internal"
       },
       "production": {
-        "workflow": "managed",
         "distribution": "store"
       }
     }
